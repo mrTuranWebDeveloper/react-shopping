@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Sakız",
+        "price": 0.5,
+        "image":"https://images.migrosone.com/sanalmarket/product/07120219/07120219-68be82-1650x1650.jpg"
+    },
+    {
+        "id": 2,
+        "title": "kola",
+        "price": 6,
+        "image":"https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/6400-coca-cola-200-ml-cam-54491250-jpg-54491250.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Ayakkabı",
+        "price": 400,
+        "image":"https://img.slazenger.com.tr/slazenger-dario-outdoor-ayakkabi-erkek-ayakkabi-siyah-outdoor-193237-94-B.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Araba",
+        "price": 40000,
+        "image":"https://www.cumhuriyet.com.tr/Archive/2021/11/29/1888598/kapak_112247.jpg"
+    }
+    
+]
